@@ -19,8 +19,11 @@ noise-convolved ECG3 = 0.2 × MA + 0.2 × EM + 0.6 × BW + ground-truth ECG (Gro
 [3]P. J. C. v. i. e.-e. PhysioBank, "Physionet: components of a new research resource for complex physiologic signals," 2000.
 
 The download of original data, output data and trained model is as follows;
+
 Group1 https://drive.google.com/file/d/1RyCnXdD_vDkt0rmnyZ0d89nD5r0ea2tQ/view?usp=sharing
+
 Group2 https://drive.google.com/file/d/1ZuPxMGsMhjTd0ng8QeGJ7zJ3Yv6zJLn7/view?usp=sharing
+
 Group3 https://drive.google.com/file/d/179wVfCPorXOZo1LZluzKRUcViQA2gJx5/view?usp=sharing
 
 The network proposed in this paper was developed using Python, and Pytorch was used for simple prototyping. The workstation specifications for training the model included an NVIDIA GPU: RTX 2080Ti and an 11GB memory. In stage1, 2000 epochs were trained, and DR-net in stage2 was trained for 1,000 epochs.
