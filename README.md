@@ -18,15 +18,15 @@ noise-convolved ECG3 = 0.2 × MA + 0.2 × EM + 0.6 × BW + ground-truth ECG (Gro
 
 [3]P. J. C. v. i. e.-e. PhysioBank, "Physionet: components of a new research resource for complex physiologic signals," 2000.
 
-The download of original data, output data and trained model is as follows;
+The download of training data and testing data is as follows;
+Link: https://pan.baidu.com/s/1iWbK1g5Yhenq7s2EQEVsJA 
+Extraction code：676o
+Link: https://pan.baidu.com/s/1-sswynhVrUMHNkODtgeXtw 
+Extraction code：u66x
+Link: https://pan.baidu.com/s/1P-PBcQ-veo1cCmSNPn5qJw 
+Extraction code：c4do
 
-Group1 https://drive.google.com/file/d/1RyCnXdD_vDkt0rmnyZ0d89nD5r0ea2tQ/view?usp=sharing
-
-Group2 https://drive.google.com/file/d/1ZuPxMGsMhjTd0ng8QeGJ7zJ3Yv6zJLn7/view?usp=sharing
-
-Group3 https://drive.google.com/file/d/179wVfCPorXOZo1LZluzKRUcViQA2gJx5/view?usp=sharing
-
-The network proposed in this paper was developed using Python, and Pytorch was used for simple prototyping. The workstation specifications for training the model included an NVIDIA GPU: RTX 2080Ti and an 11GB memory. In stage1, 2000 epochs were trained, and DR-net in stage2 was trained for 1,000 epochs.
+The network proposed in this paper was developed using Python, and Pytorch was used for simple prototyping. The workstation specifications for training the model included an NVIDIA GPU: RTX 2080Ti and an 11GB memory. 
 
 If you have any suggestions or questions, please contact me via email(qls1995@mail.ustc.edu.cn).
 
